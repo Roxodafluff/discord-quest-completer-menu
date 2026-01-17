@@ -25,10 +25,10 @@ Automatically enrolls and completes quests with a sleek interactive menu interfa
 Here’s what the menu looks like in Discord Desktop:
 
 ### 1️⃣ Full Menu
-![Full Menu Screenshot](https://your-image-link.com/full-menu.png)  
+![Full Menu Screenshot](main.png)  
 
 ### 2️⃣ Minimized Menu
-![Minimized Menu Screenshot](https://your-image-link.com/minimized-menu.png)  
+![Minimized Menu Screenshot](Minimized.png)  
 
 ---
 
